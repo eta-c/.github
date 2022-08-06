@@ -12,7 +12,7 @@ The place where **boredom** becomes **useful**!
 
 <details>
    <summary>Tykind's cat</summary>
-    <img alt="Kat vibing on chair" src="https://media.discordapp.net/attachments/979217697172762676/1005360085368844389/DD9B190F-836A-42CF-A67D-8BBE03A602BC.jpg?width=894&height=671">
+    <img alt="Kat vibing on chair" src="https://media.discordapp.net/attachments/979217697172762676/1005360085368844389/DD9B190F-836A-42CF-A67D-8BBE03A602BC.jpg?width=200&height=200">
 </details>
 ​  ​
 ​​​​
